@@ -1,0 +1,21 @@
+# Render Blueprint: free hosted demo. Gemma needs ~6 GB RAM (Render free has 512 MB), so the hosted Suchna runs in
+# demo mode: Gemma's real readings of the four SAMPLE notices (demo/seed.json), each visitor's profile in their own
+# cookie, uploads and edits off. Reading your own notices runs locally (scripts/dev.ps1).
+services:
+  - type: web
+    name: suchna
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn suchna.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /api/health
+    autoDeploy: true
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.7
+      - key: DEMO
+        value: "true"
+      - key: AI_ENABLED
+        value: "false"
+      - key: AI_WARMUP
+        value: "false"

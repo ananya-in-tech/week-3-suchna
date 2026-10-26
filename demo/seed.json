@@ -1,0 +1,230 @@
+{
+ "exported_on": "2026-10-26",
+ "notices": [
+  {
+   "file": "notice_6bb718668feb5e78.jpg",
+   "original_name": "hindi_holiday_photo.jpg",
+   "kind": "image",
+   "pages_read": 1,
+   "pages_total": 1,
+   "page_notes": [
+    "Page 1: photo, read by Gemma vision"
+   ],
+   "text": "नमूना विश्वविद्यालय, डेमो नगर |\nकुलसचिव कार्यालय |\nदिनांक: 21.10.2026 |\nअवक़ाश सूचना |\nविश्वविद्यालय के सभी छात्र-छात्राओं एवं कर्मचारियों को सूचित किया जाता है कि दीपावली के अवसर पर दिनांक 07.11.2026 से 11.11.2026 तक विश्वविद्यालय बंद रहेगा। |\nदिनांक 12.11.2026 से कक्षाएं सामान्य रूप से संचालित होंगी। |\nकुलसचिव |\nSAMPLE NOTICE made for testing Suchna. Not a real university notice.",
+   "title": "University Closure Notice for Diwali",
+   "issued_by": "Controller of Examinations",
+   "notice_date": "2026-10-21",
+   "language": "mixed",
+   "summary": "The university will be closed from November 7, 2026, to November 11, 2026, on account of the Diwali festival. Classes will resume normally from November 12, 2026.",
+   "audience": {
+    "everyone": true,
+    "programs": [],
+    "semesters": [],
+    "years": [],
+    "departments": [],
+    "hostel_only": false,
+    "lists_specific_students": false,
+    "conditions": [],
+    "quote": "विश्वविद्यालय के सभी छात्र-छात्राओं एवं कर्मचारियों को सूचित किया जाता है कि दीपावली के अवसर पर दिनांक 07.11.2026 से 11.11.2026 तक विश्वविद्यालय बंद रहेगा।"
+   },
+   "latency_ms": 178670,
+   "created_at": "2026-10-26T06:22:23+00:00",
+   "read_at": "2026-10-26T06:25:24+00:00",
+   "items": [
+    {
+     "kind": "event",
+     "what": "University closure due to Diwali festival.",
+     "due": "2026-11-07",
+     "date_text": "07.11.2026 to 11.11.2026",
+     "date_note": null,
+     "quote": "दिपावली के अवसर पर दिनांक 07.11.2026 से 11.11.2026 तक विश्वविद्यालय बंद रहेगा।"
+    },
+    {
+     "kind": "event",
+     "what": "Classes will resume normally.",
+     "due": "2026-11-12",
+     "date_text": "12.11.2026",
+     "date_note": null,
+     "quote": "दिनांक 12.11.2026 से कक्षाएं सामान्य रूप से संचालित होंगी।"
+    }
+   ]
+  },
+  {
+   "file": "notice_13e6b2dc19e56bfd.pdf",
+   "original_name": "english_hostel_fee.pdf",
+   "kind": "pdf",
+   "pages_read": 1,
+   "pages_total": 1,
+   "page_notes": [
+    "Page 1: text layer"
+   ],
+   "text": "Sample University, Demo Nagar\n\n                        Oﬃce of the Chief Warden\n\nNo. CW/2026/77     Dated: 19/10/2026\n\n                 NOTICE: Hostel fee for the even semester\n\nAll hostel residents are informed that the hostel and mess fee for the even semester (January to\nMay 2027) is ₹28,500. It must be paid through the university fee portal by 15th November, 2026.\n\nResidents who wish to vacate the hostel must submit the room surrender form to their warden by\n10.11.2026.\n\nA late ﬁne of ₹50 per day will be charged after the last date. Rooms of residents who have not\npaid by 30 November 2026 will be allotted to students on the waiting list.\n\n                                                                               Chief Warden\n\n\n\n                    SAMPLE NOTICE made for testing Suchna. Not a real university notice.",
+   "title": "Hostel Fee for Even Semester",
+   "issued_by": "Office of the Chief Warden",
+   "notice_date": "2026-10-19",
+   "language": "english",
+   "summary": "This notice informs all hostel residents about the hostel and mess fee for the even semester (January to May 2027) and the deadline for payment.",
+   "audience": {
+    "everyone": true,
+    "programs": [],
+    "semesters": [],
+    "years": [],
+    "departments": [],
+    "hostel_only": true,
+    "lists_specific_students": false,
+    "conditions": [],
+    "quote": "All hostel residents are informed that the hostel and mess fee for the even semester (January to May 2027) is ₹28,500."
+   },
+   "latency_ms": 43397,
+   "created_at": "2026-10-26T06:22:24+00:00",
+   "read_at": "2026-10-26T06:26:08+00:00",
+   "items": [
+    {
+     "kind": "action",
+     "what": "Submit the room surrender form to the warden if wishing to vacate the hostel.",
+     "due": "2026-11-10",
+     "date_text": "10.11.2026",
+     "date_note": null,
+     "quote": "Residents who wish to vacate the hostel must submit the room surrender form to their warden by 10.11.2026."
+    },
+    {
+     "kind": "action",
+     "what": "Pay the hostel and mess fee of ₹28,500 through the university fee portal.",
+     "due": "2026-11-15",
+     "date_text": "15th November, 2026",
+     "date_note": null,
+     "quote": "It must be paid through the university fee portal by 15th November, 2026."
+    },
+    {
+     "kind": "event",
+     "what": "Late fine of ₹50 per day will be charged after the last date.",
+     "due": "2026-11-30",
+     "date_text": "30 November 2026",
+     "date_note": null,
+     "quote": "Rooms of residents who have not paid by 30 November 2026 will be allotted to students on the waiting list."
+    }
+   ]
+  },
+  {
+   "file": "notice_c0b40f2614d6d958.pdf",
+   "original_name": "hindi_exam_form.pdf",
+   "kind": "pdf",
+   "pages_read": 1,
+   "pages_total": 1,
+   "page_notes": [
+    "Page 1: garbled Hindi text layer, read by Gemma vision"
+   ],
+   "text": "नमूना विश्वविद्यालय, डेमो नगर |\nपरीक्षा नियंत्रक कार्यालय |\nपत्रक: परीक्षा/2026/418 | दिनांक: 16.10.2026 |\nसूचना |\nबी.टेक तृतीय एवं पाँच सेमेस्टर के सभी छात्र-छात्राओं को सूचित किया जाता है कि विषम सेमेस्टर परीक्षा 2026 हेतु परीक्षा फॉर्म ऑनलाइन पोर्टल पर दिनांक 28.10.2026 तक भरे जा सकते हैं। परीक्षा शुल्क ₹1500 है।\nविलंब शुल्क ₹500 के साथ फॉर्म 02.11.2026 तक स्वीकार किए जाएँगे। इसके बाद कोई फॉर्म स्वीकार नहीं किया जाएगा।\n भरे हुए फॉर्म की प्रति, शुल्क रसीद के साथ, अपने विभाग कार्यालय में 04.11.2026 तक जमा करें।\n परीक्षाएं 20 नवंबर 2026 से प्रारंभ होंगी। विस्तृत समय-सारणी अलग से जारी की जाएगी।\nपरीक्षा नियंत्रक",
+   "title": "Odd Semester Exam Form Submission",
+   "issued_by": "Controller of Examinations",
+   "notice_date": "2026-10-16",
+   "language": "mixed",
+   "summary": "Students of B.Tech third and fifth semesters are informed that they can fill the online exam form for the odd semester 2026 by 28.10.2026. The exam fee is ₹1500.",
+   "audience": {
+    "everyone": false,
+    "programs": [
+     "B.Tech"
+    ],
+    "semesters": [
+     3,
+     5
+    ],
+    "years": [],
+    "departments": [],
+    "hostel_only": false,
+    "lists_specific_students": false,
+    "conditions": [],
+    "quote": "बी.टेक तृतीय एवं पाँच सेमेस्टर के सभी छात्र-छात्राओं को सूचित किया जाता है कि विषम सेमेस्टर परीक्षा 2026 हेतु परीक्षा फॉर्म ऑनलाइन पोर्टल पर दिनांक 28.10.2026 तक भरे जा सकते हैं।"
+   },
+   "latency_ms": 149851,
+   "created_at": "2026-10-26T06:22:24+00:00",
+   "read_at": "2026-10-26T06:28:38+00:00",
+   "items": [
+    {
+     "kind": "action",
+     "what": "Fill the exam form online portal",
+     "due": "2026-10-28",
+     "date_text": "28.10.2026",
+     "date_note": null,
+     "quote": "परीक्षा फॉर्म ऑनलाइन पोर्टल पर दिनांक 28.10.2026 तक भरे जा सकते हैं।"
+    },
+    {
+     "kind": "action",
+     "what": "Submit the form copy with fee receipt to the department office",
+     "due": "2026-11-04",
+     "date_text": "04.11.2026",
+     "date_note": null,
+     "quote": "भरे हुए फॉर्म की प्रति, शुल्क रसीद के साथ, अपने विभाग कार्यालय में 04.11.2026 तक जमा करें।"
+    },
+    {
+     "kind": "action",
+     "what": "Pay exam fee of ₹1500",
+     "due": null,
+     "date_text": null,
+     "date_note": null,
+     "quote": "परीक्षा शुल्क ₹1500 है।"
+    },
+    {
+     "kind": "event",
+     "what": "Exams will start",
+     "due": "2026-11-20",
+     "date_text": "20 नवंबर 2026",
+     "date_note": null,
+     "quote": "परीक्षाएं 20 नवंबर 2026 से प्रारंभ होंगी।"
+    }
+   ]
+  },
+  {
+   "file": "notice_98e4462f017cad03.pdf",
+   "original_name": "bilingual_scholarship_scan.pdf",
+   "kind": "pdf",
+   "pages_read": 1,
+   "pages_total": 1,
+   "page_notes": [
+    "Page 1: scanned page, read by Gemma vision"
+   ],
+   "text": "नमूना विश्वविद्यालय / Sample University\nदिनांक / Date: 14.10.2026\nछात्रवृत्ति सत्यापन / Scholarship verification\nराज्य छात्रवृत्ति योजना के अंतर्गत आवेदन करने वाले बी.ए., बी.एससी. एवं बी.कॉम. के सभी छात्र अपने मूल दस्तावेज (आधार कार्ड, आय प्रमाण पत्र, पिछली अंकतालिका) के साथ सत्यापन हेतु छात्रवृत्ति प्रकोष्ठ, कक्ष 12 में उपस्थित हों।\nStudents of BA, B.Sc and B.Com who have applied for the State Scholarship must come to the Scholarship Cell, Room 12, with original documents for verification.\nदिनांक / Date | पाठ्यक्रम / Course\n27.10.2026 | B.A.\n28.10.2026 | B.Sc.\n29.10.2026 | B.Com.\nसत्यापन न कराने पर छात्रवृत्ति आवेदन निरस्त कर दिया जाएगा। / Applications not verified will be cancelled.\nसमन्वयक, छात्रवृत्ति प्रकोष्ठ / Coordinator\nSAMPLE NOTICE made for testing Suchna. Not a real university notice.",
+   "title": "Scholarship Verification",
+   "issued_by": "Coordinator, Scholarship Cell",
+   "notice_date": "2026-10-14",
+   "language": "mixed",
+   "summary": "Students who have applied for the State Scholarship for BA, B.Sc, and B.Com courses must visit the Scholarship Cell for document verification.",
+   "audience": {
+    "everyone": false,
+    "programs": [
+     "B.Com",
+     "B.Sc",
+     "BA"
+    ],
+    "semesters": [],
+    "years": [],
+    "departments": [],
+    "hostel_only": false,
+    "lists_specific_students": false,
+    "conditions": [],
+    "quote": "Students of BA, B.Sc and B.Com who have applied for the State Scholarship must come to the Scholarship Cell, Room 12, with original documents for verification."
+   },
+   "latency_ms": 167835,
+   "created_at": "2026-10-26T06:22:24+00:00",
+   "read_at": "2026-10-26T06:31:26+00:00",
+   "items": [
+    {
+     "kind": "action",
+     "what": "Attend verification with original documents (Aadhaar Card, Income Certificate, previous mark sheet) at the Scholarship Cell, Room 12.",
+     "due": "2026-10-29",
+     "date_text": "27.10.2026 (B.A.), 28.10.2026 (B.Sc.), 29.10.2026 (B.Com.)",
+     "date_note": null,
+     "quote": "नमूना विश्वविद्यालय / Sample University"
+    },
+    {
+     "kind": "event",
+     "what": "Scholarship applications will be cancelled if verification is not done.",
+     "due": null,
+     "date_text": null,
+     "date_note": null,
+     "quote": "सत्यापन न कराने पर छात्रवृत्ति आवेदन निरस्त कर दिया जाएगा।"
+    }
+   ]
+  }
+ ]
+}
