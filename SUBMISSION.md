@@ -28,11 +28,7 @@ It fits the theme because the laziest way to deal with a notice is to never read
 
 ## Demo
 
-**Try the hosted demo:** ✍️ *your `.onrender.com` URL*. It shows Gemma's real readings of four sample notices.
-Change the profile and watch the answers change. A free server can't run Gemma (and your notices shouldn't
-leave your computer anyway), so reading new notices only works when you run it yourself.
-
-✍️ *GIF: drop three notices → walk away → come back to "Next up". Screenshot of a Hindi notice with its English answer card.*
+[Hosted Demo link](https://suchna.onrender.com/)
 
 ## Code
 
@@ -98,6 +94,6 @@ were right, and 8 of 9 deadlines came out on the right date. ✍️ *Replace wit
 
 <!-- ✍️ Render hosts the read-only demo (front end + API, no AI). Check the Best Use of Render rules before claiming it:
      they name Render "as the AI runtime" or "to host an agent's front end", and the AI here runs locally. -->
-**Render**: the public demo runs on Render's free plan (✍️ *URL*). Gemma itself runs on the student's own laptop, by design.
+**Render**: the public demo runs on Render's free plan. Gemma itself runs on the student's own laptop, by design.
 
 <!-- Optional: embed a DevRelay session recording of the build. -->
